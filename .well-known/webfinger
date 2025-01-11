@@ -21,6 +21,6 @@
         {
             "rel" : "jwks_uri",
             "href" : "https://auth.vlamir.org/application/o/tailscale/oauth2/jwks"
-        },
+        }
     ]
   }
